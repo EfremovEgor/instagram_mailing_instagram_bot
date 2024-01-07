@@ -1,0 +1,20 @@
+{
+  "accept_cookies_button": "/html/body/div[5]/div[1]/div/div[2]/div/div/div/div/div[2]/div/button[1]",
+  "login_field": "//*[@id='loginForm']/div/div[1]/div/label/input",
+  "password_field": "//*[@id='loginForm']/div/div[2]/div/label/input",
+  "login_button": "//*[@id='loginForm']/div/div[3]/button",
+  "direct_button": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[1]/div/div/div/div/div[2]/div[5]/div/div/div/span/div/a",
+  "disable_notifications_button": "/html/body/div[position() >= 0 and position() <= 9]/div[1]/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/button[2]",
+  "direct_messages_scroller": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div/div[1]/div/div[3]/div/div/div/div",
+  "direct_messages_container": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div/div[1]/div/div[3]/div/div/div/div/div[2]/div",
+  "direct_send_message_button": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div/div[1]/div/div[1]/div[2]/div/div",
+  "direct_search_chat_button": "/html/body/div[position() >= 0 and position() <= 9]/div[1]/div/div[2]/div/div/div/div/div/div/div[1]/div/div[4]/div",
+  "type_message_container": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div/div[2]/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div[1]",
+  "type_message_send_button": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div/div[2]/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div[3]",
+  "global_search_button": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[1]/div/div/div/div/div[2]/div[2]/span/div/a",
+  "global_search_input": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[1]/div/div/div[2]/div/div/div[2]/div/div/div[1]/div/div/input",
+  "profile_subscribe_button": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/div[2]/section/main/div/header/section/div[1]/div[1]/div/div[1]/button",
+  "profile_send_message_button": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/div[2]/section/main/div/header/section/div[1]/div[1]/div/div[2]/div",
+  "message_container": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div/div[2]/div/div/div/div/div/div[2]/div/div/div[1]",
+  "message_container_username": "//*[starts-with(@id,'mount_0_0_')]/div/div/div[2]/div/div/div[1]/div[1]/div[2]/section/div/div/div/div[1]/div/div[2]/div/div[1]/div/div/div/div[1]/div/div[1]/div[2]/a/div/div/span/span"
+}

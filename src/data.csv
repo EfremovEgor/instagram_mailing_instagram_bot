@@ -1,0 +1,104 @@
+"target_id","status","username","worker","first_name","sex","done_at"
+2,"DONE","cristiano","insta-0","Cristiano","MALE","2023-12-27 17:16:39.777201+03"
+1,"DONE","nibbaturnibba","insta-0","Егор","MALE","2023-12-27 17:18:34.567573+03"
+3,"PENDING","elizabethyatsenko",NULL,"Елизавета","FEMALE",NULL
+4,"PENDING","dianappak",NULL,"Диана","FEMALE",NULL
+5,"PENDING","golodnovadarya",NULL,"Дарья","FEMALE",NULL
+6,"PENDING","nuse4kan",NULL,"Анастасия","FEMALE",NULL
+7,"PENDING","perebiunis",NULL,"\N","FEMALE",NULL
+8,"PENDING","anna__andreevna",NULL,"Анна","FEMALE",NULL
+9,"PENDING","anastasiaaa_go",NULL,"Анастасия ","FEMALE",NULL
+10,"PENDING","yulia_reiin",NULL,"Юлия","FEMALE",NULL
+11,"PENDING","albi.park",NULL,"Альбина","FEMALE",NULL
+12,"PENDING","stervozpage",NULL,"\N","FEMALE",NULL
+13,"PENDING","liza_rai__",NULL,"Елизавета ","FEMALE",NULL
+14,"PENDING","kirisavi",NULL,"Кристина","FEMALE",NULL
+15,"PENDING","blancapadilla",NULL,"Бланка","FEMALE",NULL
+16,"PENDING","yurlovaaaaaaa",NULL,"Алина","FEMALE",NULL
+17,"PENDING","evarankiin",NULL,"Ева","FEMALE",NULL
+18,"PENDING","maryamyryam",NULL,"Марьям","FEMALE",NULL
+19,"PENDING","a_lisha_g",NULL,"Алиша","FEMALE",NULL
+20,"PENDING","k_galimovaa",NULL,"Ксения","FEMALE",NULL
+21,"PENDING","so_mur",NULL,"Софья","FEMALE",NULL
+22,"PENDING","ak.goddesss",NULL,"Ангелина ","FEMALE",NULL
+23,"PENDING","anastasiya_lapusaa",NULL,"Анастасия","FEMALE",NULL
+24,"PENDING","merylukashova",NULL,"Мери","FEMALE",NULL
+25,"PENDING","annnsvm",NULL,"Анна","FEMALE",NULL
+26,"PENDING","lunnaya.y",NULL,"Яна","FEMALE",NULL
+27,"PENDING","polina_binas",NULL,"Полина","FEMALE",NULL
+28,"PENDING","u_bakumovskaya_katrin_a",NULL,"Екатерина","FEMALE",NULL
+29,"PENDING","lizavett_rb",NULL,"Елизавета ","FEMALE",NULL
+30,"PENDING","valerielebedeva",NULL,"Валерия","FEMALE",NULL
+31,"PENDING","kristina_venerovna",NULL,"Кристина","FEMALE",NULL
+32,"PENDING","n_senatskaya",NULL,"\N","FEMALE",NULL
+33,"PENDING","egorova_elen_",NULL,"Елена ","FEMALE",NULL
+34,"PENDING","ostrotskaaayya",NULL,"Екатерина","FEMALE",NULL
+35,"PENDING","fas_aa",NULL,"\N","FEMALE",NULL
+36,"PENDING","evayablokova",NULL,"Ева","FEMALE",NULL
+37,"PENDING","kariqueen01",NULL,"Карина","FEMALE",NULL
+38,"PENDING","sgervash",NULL,"Сергей","MALE",NULL
+39,"PENDING","mers.err",NULL,"Сергей","MALE",NULL
+40,"PENDING","toosyao",NULL,"Виолетта ","FEMALE",NULL
+41,"PENDING","valbertvaleriaa",NULL,"Валерия","FEMALE",NULL
+42,"PENDING","win_bax",NULL,"Георгий ","MALE",NULL
+43,"PENDING","dari_milova",NULL,"Дарья","FEMALE",NULL
+44,"PENDING","dprssx",NULL,"Софья","FEMALE",NULL
+45,"PENDING","d_aleinikov_",NULL,"Денис","MALE",NULL
+46,"PENDING","smaginve",NULL,"Виталий ","MALE",NULL
+47,"PENDING","slowkiloo",NULL,"Владислав ","MALE",NULL
+48,"PENDING","kirisov",NULL,"Евгений","MALE",NULL
+49,"PENDING","rustam_gumarov",NULL,"Рустам","MALE",NULL
+50,"PENDING","romanenkovika",NULL,"Виктория ","FEMALE",NULL
+51,"PENDING","milliard_s_ayazom",NULL,"Аяз","MALE",NULL
+52,"PENDING","mukhametgaleev2",NULL,"Рустам","MALE",NULL
+53,"PENDING","sun_tea_",NULL,"Шамиль ","MALE",NULL
+54,"PENDING","marc_kirsten",NULL,"Марк","MALE",NULL
+55,"PENDING","aleksandr___3",NULL,"Александр ","MALE",NULL
+56,"PENDING","jyai_realty",NULL,"\N","MALE",NULL
+57,"PENDING","serdyukov_va",NULL,"Валерий ","MALE",NULL
+58,"PENDING","viktoriaromanovna99",NULL,"Виктория","FEMALE",NULL
+59,"PENDING","princessalena.97",NULL,"Алена","FEMALE",NULL
+60,"PENDING","darinka_shvedova",NULL,"Дарина","FEMALE",NULL
+61,"PENDING","kosmetologboyana",NULL,"\N","FEMALE",NULL
+62,"PENDING","el_katya_",NULL,"Екатерина","FEMALE",NULL
+63,"PENDING","dianashemetova2",NULL,"Диана","FEMALE",NULL
+64,"PENDING","onnniill",NULL,"\N","FEMALE",NULL
+65,"PENDING","ilsur.rahimov",NULL,"Ильсур","MALE",NULL
+66,"PENDING","vanya.mas",NULL,"Иван","MALE",NULL
+67,"PENDING","temakalashnikov",NULL,"Артем слав","MALE",NULL
+68,"PENDING","dzmitryvishneuski",NULL,"Дмитрий ","MALE",NULL
+69,"PENDING","maxim__93",NULL,"Максим","MALE",NULL
+70,"PENDING","hayk.ko",NULL,"Наук","MALE",NULL
+71,"PENDING","100__above",NULL,"Александр ","MALE",NULL
+72,"PENDING","yugay.andrey",NULL,"Андрей ","MALE",NULL
+73,"PENDING","gilyazetdinov",NULL,"Тимур ","MALE",NULL
+74,"PENDING","zyryanov_evan",NULL,"Иван","MALE",NULL
+75,"PENDING","554th",NULL,"Артем","MALE",NULL
+76,"PENDING","mid_221",NULL,"Михаил ","MALE",NULL
+77,"PENDING","khomliak",NULL,"Игорь","MALE",NULL
+78,"PENDING","borisannn",NULL,"Борис","MALE",NULL
+79,"PENDING","rovego",NULL,"Андрей ","MALE",NULL
+80,"PENDING","dros_sasha",NULL,"Александр ","MALE",NULL
+81,"PENDING","izmaylov_max",NULL,"Максим","MALE",NULL
+82,"PENDING","lightnordsun",NULL,"Георгий ","MALE",NULL
+83,"PENDING","gameover400",NULL,"Леонид ","MALE",NULL
+84,"PENDING","marina_sivolobova",NULL,"Марина","FEMALE",NULL
+85,"PENDING","vadimbuiko",NULL,"Вадим","MALE",NULL
+86,"PENDING","brlk.a",NULL,"Андрей ","MALE",NULL
+87,"PENDING","moiseev_pa",NULL,"Павел ","MALE",NULL
+88,"PENDING","lazkoalex",NULL,"Алексей","MALE",NULL
+89,"PENDING","dmitriy__rudenko",NULL,"Дмитрий ","MALE",NULL
+90,"PENDING","ruslangafurov",NULL,"Руслан ","MALE",NULL
+91,"PENDING","orlovdima_",NULL,"Дмитрий","MALE",NULL
+92,"PENDING","mrs.yasssha",NULL,"Яна","FEMALE",NULL
+93,"PENDING","ilmoven",NULL,"Ильгиз","MALE",NULL
+94,"PENDING","_arseniy__",NULL,"Арсений","MALE",NULL
+95,"PENDING","karpusha__24",NULL,"Ольга","FEMALE",NULL
+96,"PENDING","_walerii_",NULL,"Валерия","FEMALE",NULL
+97,"PENDING","konstantinov_universal",NULL,"\N","MALE",NULL
+98,"PENDING","aleksandr_bukeev",NULL,"Александр ","MALE",NULL
+99,"PENDING","vlad_exi",NULL,"Владислав","MALE",NULL
+100,"PENDING","lezorin",NULL,"Леонид ","MALE",NULL
+101,"PENDING","sveshnikofff",NULL,"Вячеслав","MALE",NULL
+102,"PENDING","yanis_zhyvotchenko",NULL,"Янис","MALE",NULL
+103,"PENDING","{45,46,48,50,68,69,70}",NULL,"Лион","FEMALE",NULL

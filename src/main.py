@@ -262,7 +262,7 @@ def mail_vacant_person(
 
 def init_logger() -> None:
     logs_folder = os.path.join(os.getcwd(), "logs")
-    if not logs_folder:
+    if not os.path.exists(logs_folder):
         os.mkdir(logs_folder)
 
     filename = os.path.join(
@@ -336,6 +336,23 @@ def main() -> None:
         )
 
     while True:
+        current_time = datetime.datetime.now()
+        if current_time.hour == config.SLEEPING_TIME_START[
+            0
+        ] and current_time.minute in range(
+            config.SLEEPING_TIME_START[1] - 10, config.SLEEPING_TIME_START[1] + 10
+        ):
+            logger.info(f"Sleeping for {config.SLEEPING_TIME_DURATION*60*60} seconds")
+            time.sleep(config.SLEEPING_TIME_DURATION * 60 * 60)
+
+        if current_time.hour == config.ACTIVE_TIME_END[
+            0
+        ] and current_time.minute in range(
+            config.ACTIVE_TIME_END[1] - 10, config.ACTIVE_TIME_END[1] + 10
+        ):
+            logger.info(f"Sleeping for {config.ACTIVE_TIMEOUT.total_seconds()} seconds")
+            time.sleep(config.ACTIVE_TIMEOUT.total_seconds())
+
         if time_send_next_message - time.time() <= 0:
             time_send_next_message = time.time() + random.randint(
                 *config.MESSAGGE_SENT_INTERVAL
@@ -367,6 +384,7 @@ def main() -> None:
 
             except Exception as ex:
                 logger.exception(str(ex), stack_info=True)
+
         time.sleep(10)
 
 

@@ -1,4 +1,6 @@
+import datetime
 import os
+import random
 
 # Bot Settings
 BOT_NAME = "insta-0"
@@ -7,17 +9,33 @@ PROXY_SERVER_URL = None
 SAVE_COOKIES_ON_LOGIN = True
 COOKIES_PATH = os.path.join("data", "cookies.pkl")
 
-# Intervals time_next_login_check
+# Intervals
 CHECK_FOR_NEW_MESSAGES_INTERVAL = [400, 600]
 PAGE_INTERACTION_INTERVAL = [7, 15]
 MESSAGGE_SENT_INTERVAL = [360, 480]
 ANSWERS_CHECK_INTERVAL = [30, 40]
-LOGIN_CHECK_INTERVAL = [600, 720]
 
+ACTIVE_TIME_START = [10, random.randint(11, 49)]
+ACTIVE_TIME_END = [20, random.randint(11, 49)]
+ACTIVE_TIMEOUT = datetime.datetime(
+    year=1, month=1, day=2, hour=ACTIVE_TIME_START[0], minute=ACTIVE_TIME_START[1]
+) - datetime.datetime(
+    year=1, month=1, day=1, hour=ACTIVE_TIME_END[0], minute=ACTIVE_TIME_END[1]
+)
+
+SLEEPING_TIME_DURATION = random.randint(2, 5)
+SLEEPING_TIME_START = [
+    random.randint(13, 16),
+    random.randint(11, 49),
+]
+SLEEPING_TIME_END = [
+    SLEEPING_TIME_START[0] + SLEEPING_TIME_DURATION,
+    random.randint(11, 49),
+]
 # Account
 
-# INSTAGRAM_LOGIN = "pasauale2"
-# INSTAGRAM_PASSWORD = "qyhuZoxUhySu2690"
+INSTAGRAM_LOGIN = "pasauale2"
+INSTAGRAM_PASSWORD = "qyhuZoxUhySu2690"
 
 # EMAIL = "pasquale3456@hotmail.com"
 # EMAIL_PASSWORD = "qyhuZoxUhySu2690"

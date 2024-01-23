@@ -34,17 +34,8 @@ SLEEPING_TIME_END = [
 ]
 # Account
 
-INSTAGRAM_LOGIN = "pasauale2"
-INSTAGRAM_PASSWORD = "qyhuZoxUhySu2690"
-
-# EMAIL = "pasquale3456@hotmail.com"
-# EMAIL_PASSWORD = "qyhuZoxUhySu2690"
-
-# INSTAGRAM_LOGIN = "brain87949"
-# INSTAGRAM_PASSWORD = "Rohizu129"
-
-# EMAIL = "brain7684@hotmail.com"
-# EMAIL_PASSWORD = "Rohizu129"
+INSTAGRAM_LOGIN = "abc1234"
+INSTAGRAM_PASSWORD = "1234"
 
 
 # Database'
